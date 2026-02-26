@@ -1,0 +1,213 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "5d40cc77155b578d9b8cfa7ee37160212cf7bb4b7bc65f2743e370323644c6f6"
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "5285ba249b00d0d12a3cd1f64a5536e7618770dee31d3d240f9d4345ef69f888"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+metafile = true
+
+[[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "5601649308a7d9f1658a942bbd48d3bd899a81fabd4ea1296952b48474d1ee1d"
+metafile = true
+
+[[files]]
+file = "mods/balm-fabric.pw.toml"
+hash = "3e020f352ab64f88d0bbbee740ae1784d17b44337c02e2fd670889bbdbfa4a9a"
+metafile = true
+
+[[files]]
+file = "mods/building-wands.pw.toml"
+hash = "1811ab4e8f2179c5661661c6aa47af90b5aa3d06d59601db1083c14314b137ea"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "0c345c80310a4bd58c757e43d6060338a85d34eaffcb674a6e9cbf22ecbc9cb8"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "9e21cc4fae5ed88e306b4601c5e1533f883aa8b60c6e36dedeec82718be87059"
+metafile = true
+
+[[files]]
+file = "mods/cobbledollars.pw.toml"
+hash = "25f8930a5814dfd54e697263a558293058e6c07603a44169b55e9fcea5ffd2e7"
+metafile = true
+
+[[files]]
+file = "mods/cobblefurnies.pw.toml"
+hash = "e4017e270ceacfe8dff8cdba6a657b903c002133a3bc88e8dbd54c6f55812b16"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-badgebox.pw.toml"
+hash = "dbcd6c1d82ef54574a85b8aa7a74d91cfbeca90830706346d2e1ee5bf2b9c86f"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-battle-extras.pw.toml"
+hash = "f18708955d182f8864c382b2a90047c558130891d66ba63f0b431223bd1ada3d"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-firework-capsules.pw.toml"
+hash = "b694011058a0528888f239d63768157f9d124ab1ad7da9f4133b4a2ad5f16452"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-integrations.pw.toml"
+hash = "be97750e0c69d1650c3f679c61e0a14bc70f1bc0c13b6f6ac2681575fb4110dc"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-mega-showdown.pw.toml"
+hash = "171759fbf6c75ae143c9f34173d814684a35a6dfe9f9042e8dc32792af696b7b"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-paleontology.pw.toml"
+hash = "b6285cd7cd6013d899e63ba53c2b7ee93662961d441c6d0ab7075994e1c4ade7"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-pokemon-badges.pw.toml"
+hash = "f9fca804b47d62948dc79c800723fa4e2e8d114171af6c19c901a59b99fbb073"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-pokenav.pw.toml"
+hash = "eb51c053d004eafca2bca4cb91f9fedcee372fdf78c89fbbc6914c0fd103fc99"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-utility+.pw.toml"
+hash = "918ba57f88361c9915e487bef4bdb0608f82e996441820c1c153ad179934c7ad"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "6413f6c6bef7abc5a808a54111f093a17daf4471e89d8535840f2a24966bdcd4"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonboss.pw.toml"
+hash = "f9d4415e42f796d19d1e37dbb5f804e8b55488b0dcb6f52f7153e21ea3ee394b"
+metafile = true
+
+[[files]]
+file = "mods/cobbreeding.pw.toml"
+hash = "e1f7a7bc656fb2af171219849b67b26d496881ac5a4405573a122ad344441261"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "9642962bbcc8bfd0fc299df9858ba7e9ff8d25a6d69a6df976577d9cb219f442"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "6ec22733a32cf6e59584fbf2a855e24ea2c05f46026e0799f34f34c0915c8367"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
+metafile = true
+
+[[files]]
+file = "mods/fastmove.pw.toml"
+hash = "1c963bfb5a18f7a14ddf994b4071a135e190bd2e9cbdea99df5ab0697f8c1422"
+metafile = true
+
+[[files]]
+file = "mods/flan-cobblemon-extension.pw.toml"
+hash = "5fd289490e9dbc714c4cca3ce6757159720025af015a88ec86b0bba4bce6e3e1"
+metafile = true
+
+[[files]]
+file = "mods/flan.pw.toml"
+hash = "3ef54c077956718ef1254d622d4202ac9f1156dd97a095695f20b23d2cbf3216"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "73ba52fce9064dfb0a3b78f1d96354b79c52db7e2a3e8ecc713da6429b4c5723"
+metafile = true
+
+[[files]]
+file = "mods/mighty-mail.pw.toml"
+hash = "be23f8e39be6368729dc085d3443c8739092ad42df2740dca396b3914733c74c"
+metafile = true
+
+[[files]]
+file = "mods/navas-zamega.pw.toml"
+hash = "0886ac3a006f1d4250738acdd5e77305e9babbe819a524fadb4700906cf2dab4"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/A_ATM x MSD [3.1.2].zip"
+hash = "3a49333d583a02835da474847736e34ed687be58d3f44db7a016352280c612fa"
+
+[[files]]
+file = "resourcepacks/B_CobbleCult Additions.zip"
+hash = "51b61e4b82f144fc22055fe64c915d0b154f11874ac320e40fa097748b5cedb0"
+
+[[files]]
+file = "resourcepacks/C_Flower Expansion [CobbleCult Edition].zip"
+hash = "6d0f41c7b7abd3e4fd2e78fa208ec432c2078cbac5351b90cac89b827e123df0"
+
+[[files]]
+file = "resourcepacks/Complete Galar Fossilmon E19 Icons.zip"
+hash = "759d61973beb6966f8a1816cd9a73cb9e307ac84b73d201544aac574c518673c"
+
+[[files]]
+file = "resourcepacks/D_Carbink Gemstone Variations.zip"
+hash = "f92f1a54aaea2033557896845e72178ddf9092666b2e16c676ff088de3923e87"
+
+[[files]]
+file = "resourcepacks/E_Rotom Appliances 1.2 [CobbleCult Edition].zip"
+hash = "a93eb2079ee46d1e604c03c65fbc7c274697744b1f04bdcdcbe4a6fde879beab"
+
+[[files]]
+file = "resourcepacks/F_Dyable Mareep v1 [CobbleCult Edition].zip"
+hash = "89235946992a2d46b4fbcc788c22d7269fb6d5ecd889c966fdfc5eafe1d5b5bb"
+
+[[files]]
+file = "resourcepacks/Flan's Cobblemon Extension.zip"
+hash = "5c17e49eef9789aa39b90f563119ee5484d87ec2ff357bce01bf72fccd4d0c4d"
+
+[[files]]
+file = "resourcepacks/G_Complete Galar Fossilmon Addon.zip"
+hash = "89bc569b86becc667ff732a9a67f11b95c9635ce95e17ad69639304789ef6f70"
+
+[[files]]
+file = "resourcepacks/H_Vivillon Pride Patterns v1.0.zip"
+hash = "bc9576e55b02d4e15c5bb99b9b57f5f85cc2129d2d0dce890b7ea076d03a8bcb"
+
+[[files]]
+file = "resourcepacks/I_Shoulder Effects Remounted [CobbleCult Edition].zip"
+hash = "17bf778431e5c1c0aeea0ee4ae8ca3f4570e6228cc50dfd927d9ea4f5c7fc297"
+
+[[files]]
+file = "resourcepacks/Z_CobbleCult x MSD Map Icons.zip"
+hash = "c5c9e5c84873ddf29ec3c011d1d0f760f24b40db2aca62bded246aa190709f41"

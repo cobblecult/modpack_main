@@ -1,0 +1,16 @@
+name = "CobbleCult Modpack"
+author = "wamulet"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "59466d957a0a66a690b60780bd23e4b0ae021902461181b112e1fe13dc5d3d02"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.1"
+
+[options]
+acceptable-game-versions = ["1.21"]
