@@ -3,8 +3,8 @@ filename = "balm-fabric-1.21.1-21.0.56.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0377b2e07551dc9fbcb40b94a3d38e098cd85d7e"
+hash-format = "sha256"
+hash = "928f71d90b0064ba450e31211273c87491af13f820b3c1992b26811e0bd22d38"
 mode = "metadata:curseforge"
 
 [update]

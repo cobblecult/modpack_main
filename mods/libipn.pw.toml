@@ -3,8 +3,8 @@ filename = "libIPN-fabric-1.21.1-6.6.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f87812771b059853b96c3d1ba589f1655cd05e28"
+hash-format = "sha256"
+hash = "483398d6d92127540882c2f676a37efbfd98da1a51fdfb86b177a18f607c2a96"
 mode = "metadata:curseforge"
 
 [update]

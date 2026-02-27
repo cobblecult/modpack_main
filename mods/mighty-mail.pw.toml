@@ -3,8 +3,8 @@ filename = "mighty_mail-fabric-1.21.1-1.1.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7efe3b7e170a0207fb8ea5e47385967ca33d6b8c"
+hash-format = "sha256"
+hash = "6719877b17406859b9d2a9cd320ab8c3283b55d8ab351d46ef0e605fd9f850a6"
 mode = "metadata:curseforge"
 
 [update]

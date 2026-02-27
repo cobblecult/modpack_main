@@ -3,8 +3,8 @@ filename = "FallingTree-1.21.1-1.21.1.11.jar"
 side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "626e7ec3a979dcc15d8e65c53207572c41c1b255"
+hash-format = "sha256"
+hash = "70ee147602d2239e7a093e166fdf0c0abcef959d5d457c0f8f3669ef9b483dc4"
 mode = "metadata:curseforge"
 
 [update]

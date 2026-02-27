@@ -3,8 +3,8 @@ filename = "veinmining-fabric-5.0.0-beta+1.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ae95f354d74bfcb972a8e9b1b81b1d829bc5161a"
+hash-format = "sha256"
+hash = "1f96d3001d90d6fde6830f0b878ad497381e42ae3251f8d3d8a823f10962c889"
 mode = "metadata:curseforge"
 
 [update]

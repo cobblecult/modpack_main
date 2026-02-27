@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/zBOfzARU/versions/HMbMSSRY/fireworkcapsules-fabric-2.1.0%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "9b5a4486d2107c8badb7b0693b0272dbdc2eb9042aaf5c79542eb0f7e14aab93502a77aded0b858b4461673f2995c41efa9b1561592d022123b3f35e0af3bef7"
+hash-format = "sha256"
+hash = "ac212b842e0e9c4ec36de7eced99a7b71a87f0b3d8ad56796dfcc35b54546478"
 
 [update]
 [update.modrinth]

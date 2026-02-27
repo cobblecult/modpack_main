@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/SszvX85I/versions/Ts9ALgdS/mega_showdown-fabric-1.6.9%2B1.7.3%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "edd46c8f1ab2f931a4856cc0302dfc1a8f1e798dfc2a4e7d3819ca879654398ca88cae37a12dc3948c0f80e44e3561ff578fa9391ecdc0ffa6c2143dd40a1671"
+hash-format = "sha256"
+hash = "e95413ba81208cc5906316eda9512699d3c0b1d9e15e0b089c09f09e6b11101f"
 
 [update]
 [update.modrinth]

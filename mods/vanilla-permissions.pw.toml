@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/fdZkP5Bb/versions/AReshRra/vanilla-permissions-0.3.3%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "8fbbe41b0c0e135fe917b624dbc825f8c6802136be006936e6f7fa1b9d56e96252a98eb1c2c9a7063b9ee182b27437eb8d9f57a1fabf9972b5bc2de878d8e4b1"
+hash-format = "sha256"
+hash = "3f30859c138f50687fbc731f9de88aec11ba8d89955b03519d85741205397d42"
 
 [update]
 [update.modrinth]
