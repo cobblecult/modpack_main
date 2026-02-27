@@ -1,6 +1,6 @@
 name = "FallingTree"
 filename = "FallingTree-1.21.1-1.21.1.11.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

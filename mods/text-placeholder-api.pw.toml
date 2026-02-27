@@ -1,6 +1,6 @@
 name = "Text Placeholder API"
 filename = "placeholder-api-2.4.2+1.21.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
