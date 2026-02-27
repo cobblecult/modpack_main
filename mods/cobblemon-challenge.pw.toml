@@ -1,0 +1,13 @@
+name = "Cobblemon Challenge"
+filename = "cobblemonchallenge-fabric-2.4.0.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "d4aee90848161b8bad818e51a7445dc5413074fd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7251947
+project-id = 908215

@@ -5,6 +5,10 @@ file = "config/fabric_loader_dependencies.json"
 hash = "5d40cc77155b578d9b8cfa7ee37160212cf7bb4b7bc65f2743e370323644c6f6"
 
 [[files]]
+file = "mods/LuckPerms-Fabric-PlaceholderAPI-Hook.jar"
+hash = "064b98c0979d28b282661156208e5bcba2e9a0c851b2e312e6f0042b94297687"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "5285ba249b00d0d12a3cd1f64a5536e7618770dee31d3d240f9d4345ef69f888"
 metafile = true
@@ -40,6 +44,11 @@ hash = "9e21cc4fae5ed88e306b4601c5e1533f883aa8b60c6e36dedeec82718be87059"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "5012b61748c44f005ae27692ef51484716c5df4cd9793a0df3fa6ce892f3e156"
+metafile = true
+
+[[files]]
 file = "mods/cobbledollars.pw.toml"
 hash = "25f8930a5814dfd54e697263a558293058e6c07603a44169b55e9fcea5ffd2e7"
 metafile = true
@@ -57,6 +66,16 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-battle-extras.pw.toml"
 hash = "f18708955d182f8864c382b2a90047c558130891d66ba63f0b431223bd1ada3d"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-capture-xp.pw.toml"
+hash = "0b1740cc342248a7bf917a147d6b8e852a9253dfbcfe180f7cf50f97bf6d646e"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-challenge.pw.toml"
+hash = "218892097dfaab3452462623b504fbdc027a581acf335a37f9d4993f2fb0cb0a"
 metafile = true
 
 [[files]]
@@ -115,6 +134,16 @@ hash = "f9d4415e42f796d19d1e37dbb5f804e8b55488b0dcb6f52f7153e21ea3ee394b"
 metafile = true
 
 [[files]]
+file = "mods/cobblemonextras.pw.toml"
+hash = "7ba736c8ac146c4e0cfaa2a96ff5e4e014b2d3a361b48394cd39a76cf3a515a4"
+metafile = true
+
+[[files]]
+file = "mods/cobblespawners.pw.toml"
+hash = "d65c20b4b5001b05bc098736e5356939d9a035fa4414c8b5a87f28e1f80552b6"
+metafile = true
+
+[[files]]
 file = "mods/cobbreeding.pw.toml"
 hash = "e1f7a7bc656fb2af171219849b67b26d496881ac5a4405573a122ad344441261"
 metafile = true
@@ -125,18 +154,43 @@ hash = "6a89cf951df2610ceaf07877657de5ae63bf3bc67cc94f5d802c9cc78114fbf9"
 metafile = true
 
 [[files]]
+file = "mods/disconnect-packet-fix.pw.toml"
+hash = "5c9f7094a4327e0730966e4a58617456695fbcbaedae3f79903ea6a1d939fc6e"
+metafile = true
+
+[[files]]
+file = "mods/e-utils.pw.toml"
+hash = "0477f41e688eb95d6106b4df2c4fd433023d0b36d1ee6aed1a4e885cb2d26716"
+metafile = true
+
+[[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "4f128957cb3715a76e340e35273e9b38e474a0a3798a325f1b0a998db9d5c0c1"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "9642962bbcc8bfd0fc299df9858ba7e9ff8d25a6d69a6df976577d9cb219f442"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "cd98ddb3d38d3402b89ab669d423dbc199d70c4d655eaea615add89c30b95241"
+hash = "6ec22733a32cf6e59584fbf2a855e24ea2c05f46026e0799f34f34c0915c8367"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c27a08b54ab9b474a57211f383f511d67fd0023035ee2e76d247667e15183e63"
+hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
+metafile = true
+
+[[files]]
+file = "mods/fabric-permissions-api.pw.toml"
+hash = "4f7bf8d60ef81f12471455f634bde52cc5a8c845250845b4519ad44ea46e61a6"
+metafile = true
+
+[[files]]
+file = "mods/falling-tree.pw.toml"
+hash = "5fe387bcad2d72c9bdd7047c19fed3959dcc65e2615e188ae743c517c08209df"
 metafile = true
 
 [[files]]
@@ -180,6 +234,11 @@ hash = "5aff706b484a368a4679b23cb2502154968b89251f17e0d4740ac189218c3dc7"
 metafile = true
 
 [[files]]
+file = "mods/invview.pw.toml"
+hash = "515b020926d1fd0b6d1a32d106a376ba2c77bc5587bed99cecbc2d944ad18a99"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "37a45ed98e4edc9c8224cb06f72be8914fae69687601d4e15009f1cb9f27563c"
 metafile = true
@@ -195,8 +254,18 @@ hash = "7438e773f85e37b376469cbe8749525e3353ff38711ddb3911dde77bbd0e3388"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "f7cda152847b85f770b5130db1e1569b5b86ddf09d399377d7133365922a0e08"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "418dd349bc2f86a0725a9498684a7f87fcc4ae70e6f3967cb738ae133e996ec0"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "88b5510e39cdc8ca356d54bc436edc777d5eafc03203a8724784183408fe6792"
 metafile = true
 
 [[files]]
@@ -230,6 +299,11 @@ hash = "2776d6c14fbfbc55183ad6953596ae8e3cf35816813bf8d9cde663044d5c6121"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "1c13286be4f09e25c93ef1640335a951df1dd0f155f6d7a173dfc284831e09c3"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "8deb4040131569c97902b40e0d81ef80330c6bb477c2ebcf5a5d987e1348eb96"
 metafile = true
@@ -237,6 +311,21 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "090c32358b667855c299bad2592d85678a723f09cdeb36c76edd84ee08811744"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "81b8a1d186cc1685641bef736eadd143fa48909bd50cd7c975ec0d971a25e3ba"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "cbd24cdc5e83c7f687d56ed15b79f0e4ea890d9e825f747357e22831f67f4f0f"
 metafile = true
 
 [[files]]
@@ -255,8 +344,23 @@ hash = "480dd12d946309eabf4fa0f01dd0a1c73efa3df5dddba36e23e4e47bc07e7400"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+hash = "b44e89cd6be4251903a0b128b0c49bb3dc5869159fe5ef273f441a0082ebe9fd"
+metafile = true
+
+[[files]]
 file = "mods/travelers-backpack-fabric.pw.toml"
 hash = "5f713fca609c017cb41162b503753a831f6f60b4e90a215c891544743c2a2a94"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-permissions.pw.toml"
+hash = "9f3e865adc7318ec2072cd02a9d7f3dad9e4c1214249c04ebfdefcc39336b2e7"
+metafile = true
+
+[[files]]
+file = "mods/vanish.pw.toml"
+hash = "28d46dace618c4907d89e7041b37629ea21eab19af77b03f78cf5e0b8c32914b"
 metafile = true
 
 [[files]]
