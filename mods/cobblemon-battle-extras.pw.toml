@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2iY8VFqL/versions/fKymUVhN/cobblemon-battle-extras-fabric-1.8.30.jar"
-hash-format = "sha256"
-hash = "7c58702de8d6ed966207d0797109f20358f068989d1cab45d24ca61056581c5f"
+hash-format = "sha512"
+hash = "855da7f36767bfcd1915311cbb34b28917f68fb29bd38d260e413fe90f688e2ebc6ed271c1b1a2a59e18fc6868e75f065f0ae201dafe6ce9a8edde15fbda59e6"
 
 [update]
 [update.modrinth]

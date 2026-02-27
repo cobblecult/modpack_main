@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/XmqpPthc/versions/IVv10wyr/FastMove-1.21-1.0.8.jar"
-hash-format = "sha256"
-hash = "4516e341b83401378fe4079e1c476f5b4a1714425ddfd01c992314bb1b98d14a"
+hash-format = "sha512"
+hash = "68fa28763e971ccfbf2b3a3555da19df4e443e5490fa80134bbcd9263b6b6455941b638cd5f6e02fafaba9f476c5b98a2e69ba100466cbd6da7b681e07d076bf"
 
 [update]
 [update.modrinth]

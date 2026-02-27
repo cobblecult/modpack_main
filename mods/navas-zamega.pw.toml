@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2V1Y86sc/versions/vVdlKcht/zamega-fabric-1.5.4.jar"
-hash-format = "sha256"
-hash = "0e9469a3e0d1235e88c660cbd8239c703626312e38a546ec5616d48a0b56668f"
+hash-format = "sha512"
+hash = "876b9159205fb62427372d8aafcaf050c17a47b47a4b89b49a8a9d36ebaba0a3e803c6a33553be4687bde6015fc60e0f8e4f9fa66b3c240ad38d8bc83baf4a02"
 
 [update]
 [update.modrinth]

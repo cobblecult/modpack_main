@@ -3,8 +3,8 @@ filename = "xaeroworldmap-fabric-1.21.1-1.40.11.jar"
 side = "client"
 
 [download]
-hash-format = "sha256"
-hash = "57861a4496fd5c714cf67d53539c8612dbd88543605c7e4b9b23ecc819c0a601"
+hash-format = "sha512"
+hash = "a225d17b43d0aff03dacb0826c024aa8620afa45b43e63c8e9d5002c4dbced4afb0f2bc8c92508b60b967b6a0d78ab0f7af645a578f3632e151c0fd4f26ce89e"
 mode = "metadata:curseforge"
 
 [update]

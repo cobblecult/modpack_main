@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ePxok8ID/versions/kZU5eRE1/Cobblemon-Utility%2B-fabric-1.7.3.jar"
-hash-format = "sha256"
-hash = "4745d846ac64d3f6abb15ba2ff806c5c1a9b512e7caba755aca499d0e4e41001"
+hash-format = "sha512"
+hash = "799420500ce6711045e2f20e83b789e96e1c71c64841c54b9a676506725a58784a2ed3330ec1370f5ff84469ff08b13eda7219d16900ccff0b2a774b20569d09"
 
 [update]
 [update.modrinth]

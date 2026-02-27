@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/7mHyGgvW/versions/rHtTi59k/IronChests-2.0.4.jar"
-hash-format = "sha256"
-hash = "1829b11371aa462bd3f5f7416fd5460fd2cd8642631921ae17bcd713a3476f54"
+hash-format = "sha512"
+hash = "69a92cad45ba947f9f29f79aa3132fc287b86a3d46e501ad4505fe2aeac7e15fc517be32a162169e472345c58d7490a9bfb72fc20fda2ed94ff8c4a8526815da"
 
 [update]
 [update.modrinth]

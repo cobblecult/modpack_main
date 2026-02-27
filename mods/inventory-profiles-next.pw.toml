@@ -3,8 +3,8 @@ filename = "InventoryProfilesNext-fabric-1.21.1-2.2.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "66451b2ce914eaa4873132cd721530113b0994e57954fb2ecf0ffa531ab48476"
+hash-format = "sha512"
+hash = "6a57d78a1ee92f35e41b928070b3ebcc91701183fd2040996146e71eec9d39c055fcb13a070f5e0870427b9b5fbdd423e711f1fd80dc24dd1b33670c4b3cbc46"
 mode = "metadata:curseforge"
 
 [update]

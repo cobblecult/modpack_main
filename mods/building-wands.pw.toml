@@ -3,8 +3,8 @@ filename = "BuildingWands-fabric-MC1.21-3.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "caa883497821d5b0e51967f7b9d02882556d805a05b42a8d6ff5f94645d05c11"
+hash-format = "sha512"
+hash = "fdaa5c17a6a6a6e6c8666e71eb05c96a8b7c3ee04c3e6e72ebf543f5f45e9b2a5706523f21c64bc92cd46d27b69b5a6f477164375763334eff253f1b29866061"
 mode = "metadata:curseforge"
 
 [update]

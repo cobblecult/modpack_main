@@ -3,8 +3,8 @@ filename = "cobblemonchallenge-fabric-2.4.0.jar"
 side = "server"
 
 [download]
-hash-format = "sha256"
-hash = "7b557fdac185e6415263b482c8674392c85de5ec2439efa83a159d57ca676d47"
+hash-format = "sha512"
+hash = "e0f1a017a7f85c22836f68649a8e8fde9d485887231da256c68a6f64c172cbabc4dba1d12a7338f3dc95352bb91b9604202d48b7b505d43bb62afaeb5a925a50"
 mode = "metadata:curseforge"
 
 [update]

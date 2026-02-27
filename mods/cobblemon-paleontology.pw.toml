@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/tbBs6vYE/versions/l6Q8BHjE/cobblemon-paleontologist-0.6.0-Beta.jar"
-hash-format = "sha256"
-hash = "1be46578ac0f3ecfb88ceded99d9828500f5db1332c10c85c37fbcbc173a4b34"
+hash-format = "sha512"
+hash = "981fce902ab3fe046ce963c6fe8c33aa367e032a0dc24c3154731a847244544ae80ab99e75eb3ac70b99c936f56fe7c01283c82db245f5b81d7b56d4a12c9e98"
 
 [update]
 [update.modrinth]

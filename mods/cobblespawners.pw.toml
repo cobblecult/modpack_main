@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/8zOARMXP/versions/ricKIJWW/cobblespawners-2.1.5.jar"
-hash-format = "sha256"
-hash = "8162a3b73bc46af664cec254fd1f3eee88073dfd826967c39555ee5b7f0f3125"
+hash-format = "sha512"
+hash = "ff513731261e7e48c24c1725088f082d3177b5d5c4ec79732379cab030e69ffa66e636b1e0f8f3a719877bd7435f3755f861331791b422e2f2950b09f0f8c2f8"
 
 [update]
 [update.modrinth]
