@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/building-wands.pw.toml"
-hash = "b4c91be6e9a39270e4befd5feac995faa644c2b44f583a6a97b62032eb2e9599"
+hash = "81fbe4ba39c4f08afb1401e6cc900ccc95bbd7c48835a9cc4998421c4decb292"
 metafile = true
 
 [[files]]
@@ -57,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/cobblefurnies.pw.toml"
 hash = "e4017e270ceacfe8dff8cdba6a657b903c002133a3bc88e8dbd54c6f55812b16"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-additions.pw.toml"
+hash = "ade2bd4db7d5a79135cc492d72dbe72e21af5d704dfb88e6dc7622b684da31dd"
 metafile = true
 
 [[files]]
@@ -137,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemonextras.pw.toml"
 hash = "7ba736c8ac146c4e0cfaa2a96ff5e4e014b2d3a361b48394cd39a76cf3a515a4"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonoptimizer.pw.toml"
+hash = "e9d01abaab5edc66ffdd731b00a95563925c415a707e5b5ee611ab0ef152cd59"
 metafile = true
 
 [[files]]
@@ -245,6 +255,11 @@ hash = "cd8e6d4a28f826e87afebd58b93338f9411fcfd3cc8dbb532b961e6060a084cd"
 metafile = true
 
 [[files]]
+file = "mods/icommon.pw.toml"
+hash = "44ecb5c09a3810f6c605f4e403e3c42c0ee40da91ccd3748d9a02fee746f6ce3"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "2baa05930efe0e1c18f25f33aa079e39878bdf0930fc1fcb4e0c628b4f42e7c2"
 metafile = true
@@ -292,6 +307,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "c9cc1728ca3d16e37afe3db4a65e63cdcf90d759ae36e633cb0ebf18ee47c336"
+metafile = true
+
+[[files]]
+file = "mods/multiworld.pw.toml"
+hash = "4d60813e8db9261205387f5c8cb96d0b372d3bbe78159369abbddab24f4b8788"
 metafile = true
 
 [[files]]
@@ -392,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "9076b9435e266e1f2358ac977a30db81446391ea1dc7e49a8b70a1efb7f993e9"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "08d4775f8546564ad812b09062633ffc48f44b76328efe3832c021651af86b14"
 metafile = true
 
 [[files]]
