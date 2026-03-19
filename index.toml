@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-additions.pw.toml"
-hash = "ade2bd4db7d5a79135cc492d72dbe72e21af5d704dfb88e6dc7622b684da31dd"
+hash = "5ddeb6f55fc1e3ccf36bd3733768ff64337e5531b018a05668c7e9d42f3c2b19"
 metafile = true
 
 [[files]]
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-battle-extras.pw.toml"
-hash = "f18708955d182f8864c382b2a90047c558130891d66ba63f0b431223bd1ada3d"
+hash = "ae0691f78554a4c8a92900d525d995d3c2efd1b366f593ea5635ed8013703f46"
 metafile = true
 
 [[files]]
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "2d0184c17562e8849657239ecb9b63f48333a2b19ca44ac5491b2fc14815ea0f"
+hash = "25fec29bb661c76e979cfe6733397ee1e36c154ab7ab1601ef08e1e99c92200c"
 metafile = true
 
 [[files]]
@@ -136,17 +136,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemonboss.pw.toml"
-hash = "a196030b1f10830572474653d782ac347944e823c9c13689cc8ed68034500d7c"
+hash = "92d79318a0178ad9fa9e5387bd9d8b3b96dd14bef5beda738eec0d3729a8255b"
 metafile = true
 
 [[files]]
 file = "mods/cobblemonextras.pw.toml"
 hash = "7ba736c8ac146c4e0cfaa2a96ff5e4e014b2d3a361b48394cd39a76cf3a515a4"
-metafile = true
-
-[[files]]
-file = "mods/cobblemonoptimizer.pw.toml"
-hash = "e9d01abaab5edc66ffdd731b00a95563925c415a707e5b5ee611ab0ef152cd59"
 metafile = true
 
 [[files]]
@@ -246,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "fe2682e6dbdd4350863e1fcd3f5f211fb437cf7791539bedd50779745beb5232"
+hash = "95499bb1cfcbfc2a2e2734a7034de0f35c17058048866fdf17fc3a241d9f689e"
 metafile = true
 
 [[files]]
@@ -261,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "2baa05930efe0e1c18f25f33aa079e39878bdf0930fc1fcb4e0c628b4f42e7c2"
+hash = "2cf3b52b061f341ef888b63f4d1920d8b34b623fa7eb07b27eaed523c7e7cda2"
 metafile = true
 
 [[files]]
@@ -286,12 +281,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c11e65ca1d8bcb5f1a724054300119bbc4e9a5f56707f91083e612410a0ff412"
+hash = "c182f20dec037e7f3e7f62c4eb588faabc70a94493229452a6018b44c3a5d649"
 metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "418dd349bc2f86a0725a9498684a7f87fcc4ae70e6f3967cb738ae133e996ec0"
+hash = "90d3195da54148fbdc6fb0e5ee3a527f698e29167acdb528e48410a5bbd462d0"
 metafile = true
 
 [[files]]
@@ -321,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/navas-zamega.pw.toml"
-hash = "0886ac3a006f1d4250738acdd5e77305e9babbe819a524fadb4700906cf2dab4"
+hash = "e7184e9b3c1efe68a506c3210b201f00b12b8128fd8057b4b006b01ba02ff9ef"
 metafile = true
 
 [[files]]
@@ -406,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "9076b9435e266e1f2358ac977a30db81446391ea1dc7e49a8b70a1efb7f993e9"
+hash = "5f3061b133dde56006f8c9af3ab7d48b44f31ffef8ed8225dcd5a02c34cc9bd5"
 metafile = true
 
 [[files]]
@@ -426,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/A_ATM x MSD [3.3.0].zip"
-hash = "bb5d405c61acd8aad4379a5742079900ec2652462508a46f3611655f0ac4f17a"
+hash = "bd02042178bc2ac37d32b3317b28a8c4d4cf542693ad4148596ceae05adfc66c"
 
 [[files]]
 file = "resourcepacks/B_CobbleCult Additions.zip"
